@@ -1,0 +1,88 @@
+*{
+    margin :0%;
+    padding: 0%;
+    background-color: #dfe3ee;
+
+}
+.classone{
+    margin-top: 230px;
+    margin-left: 150px;
+}
+h1{
+    font-size: 50px;
+    color: #1877f2;
+    font-family: sans-serif;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    width: 400px;
+    height: 350px;
+    margin-top: -190px;
+    margin-right: 160px;
+    float: right;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 10px 10px 8px #888888;
+
+}
+
+.form{
+    float: right;
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.form input{
+    margin-top: 10px;
+margin-left: -10px;
+border-radius: 10px;
+margin-right: -10px;
+padding: 15px;
+width: 330px;
+}
+button{
+  margin-top: 15px;
+  background-color: #1877f2;
+  padding: 15px;
+  width: 100%;
+  border-radius: 10px;
+  color: white;
+  font-family: sans-serif;
+  font-size: 15px;
+
+}
+p{
+    background-color: white;
+    font-size: 15px;
+ 
+    margin-top: 10px;
+}
+p a{
+    color: #1877f2;
+    background-color: white;
+}
+.b2{
+     margin-top: 15px;
+    background-color:white;
+    margin-left: 60px;
+    margin-right: 60px;
+
+}
+.b2 button{
+    background-color: #1b9c24;
+}
+p#one{
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+p b {
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
